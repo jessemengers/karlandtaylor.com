@@ -364,9 +364,10 @@ iframe {
     margin-top: 10px;
 }
 
+/*ecbf87*/
 #clock b {
     font-family: 'Josefin Sans';
-    color: #ecbf87;
+    color: #FFFFFF;
     font-weight: 300;
     display: block;
     font-size: 56px;
