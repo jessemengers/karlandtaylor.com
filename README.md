@@ -1,1 +1,0 @@
-# karlandtaylor.com
